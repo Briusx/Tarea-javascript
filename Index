@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+<body>
+    <button onclick="mostrar()">mostrar</button>
+
+    <script type="text/javascript">
+            function mostrar(){
+                swal('¡Listo!', 'Botón realizado correctamente', 'success');
+
+            }
+
+    </script>
+
+</body>
+
+</html>
